@@ -1,199 +1,361 @@
 <div align="center">
 
-# 🔷 EA DAVID
-**SYSTEMS PROGRAMMER** • **PERFORMANCE ENGINEER** • **LOW-LEVEL ARCHITECT**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=EA%20DAVID&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-[![](https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge&labelColor=000000)](https://github.com/eadavid)
-[![](https://komarev.com/ghpvc/?username=eadavid&color=00ff00&style=for-the-badge&label=PROFILE+ACCESS)](https://github.com/eadavid)
+### Systems Programmer | Performance Engineer | Low-Level Architect
+
+[![Profile Views](https://komarev.com/ghpvc/?username=eadavid&color=00ff00&style=flat-square&label=VISITORS)](https://github.com/eadavid)
+[![GitHub](https://img.shields.io/badge/GitHub-eadavid-181717?style=flat-square&logo=github)](https://github.com/eadavid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/eadavid)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:your.email@example.com)
 
 </div>
 
+<br>
+
 ---
 
-## 📊 SYSTEM METRICS DASHBOARD
-
-<div align="center">
-
-### ⚡ CORE PERFORMANCE INDICATORS
+## 🎯 Professional Overview
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-**ACTIVITY MATRIX**
-
-![](https://github-readme-stats.vercel.app/api?username=eadavid&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=ffffff&ring_color=00ff00&fire_color=00ff00&count_private=true&include_all_commits=true)
+### Core Competencies
+- **Systems Programming**: C/C++, Rust, Assembly (x86/ARM)
+- **Operating Systems**: Linux Kernel, POSIX, Real-Time Systems
+- **Performance**: Profiling, Optimization, Memory Management
+- **Concurrency**: Multi-threading, IPC, Synchronization
+- **Tools**: GDB, Valgrind, perf, strace, CMake
 
 </td>
-<td width="50%">
+<td width="40%" valign="top">
 
-**LANGUAGE DISTRIBUTION**
+### Quick Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eadavid&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&langs_count=10)
+![](https://img.shields.io/badge/Years_Coding-10+-00ff00?style=for-the-badge&labelColor=000000)
+
+![](https://img.shields.io/badge/Focus-Low_Level-00ff00?style=for-the-badge&labelColor=000000)
+
+![](https://img.shields.io/badge/Status-Open_to_Work-00ff00?style=for-the-badge&labelColor=000000)
 
 </td>
 </tr>
 </table>
 
-### 🔥 CONTRIBUTION HEATMAP
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=eadavid&theme=black-ice&hide_border=true&background=000000&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff)
-
-### 📈 COMMIT ACTIVITY GRAPH
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=eadavid&theme=high-contrast&hide_border=true&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=00ff00)
-
-</div>
+<br>
 
 ---
 
-## 🎯 PROJECT ANALYTICS
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 📦 REPOSITORY METRICS
+<table>
+<tr>
+<td width="50%">
+
+### Performance Metrics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=eadavid&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&count_private=true&include_all_commits=true)
+
+</td>
+<td width="50%">
+
+### Language Distribution
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eadavid&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&langs_count=8)
+
+</td>
+</tr>
+</table>
+
+### Contribution Timeline
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=eadavid&theme=black-ice&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff)
+
+### Activity Graph
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=eadavid&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=00ff00)
+
+</div>
+
+<br>
+
+---
+
+## 📈 Detailed Metrics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eadavid&theme=chartreuse_dark)
+
+</td>
+<td width="50%">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eadavid&theme=chartreuse_dark)
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eadavid&theme=chartreuse_dark)
+
+</td>
+<td width="50%">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eadavid&theme=chartreuse_dark)
 
-### 🔧 COMMIT DISTRIBUTION
+</td>
+</tr>
+</table>
+
+### Commit Distribution Over Time
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eadavid&theme=chartreuse_dark)
 
 </div>
 
----
-
-## 🏆 ACHIEVEMENT MATRIX
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=eadavid&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=8&rank=-C,-B)
-
-</div>
+<br>
 
 ---
 
-## 💻 LIVE CODE METRICS
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%">
 
-**TOTAL COMMITS**
-
-![](https://badges.pufler.dev/commits/all/eadavid?style=for-the-badge&color=00ff00&logo=github&logoColor=white&labelColor=000000)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=eadavid&repo=high-performance-allocator&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/eadavid/high-performance-allocator)
 
 </td>
-<td align="center" width="33%">
+<td width="50%">
 
-**REPOSITORIES**
-
-![](https://badges.pufler.dev/repos/eadavid?style=for-the-badge&color=00ff00&logo=github&logoColor=white&labelColor=000000)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=eadavid&repo=kernel-module-dev&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/eadavid/kernel-module-dev)
 
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td width="50%">
 
-**CONTRIBUTIONS (YTD)**
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=eadavid&repo=network-stack&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/eadavid/network-stack)
 
-![](https://badges.pufler.dev/commits/yearly/eadavid?style=for-the-badge&color=00ff00&logo=github&logoColor=white&labelColor=000000)
+</td>
+<td width="50%">
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=eadavid&repo=embedded-rtos&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/eadavid/embedded-rtos)
 
 </td>
 </tr>
 </table>
 
-### 📊 LANGUAGE PROFICIENCY RADAR
+</div>
+
+<br>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=eadavid&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-B)
+
+</div>
+
+<br>
+
+---
+
+## 💼 Technical Arsenal
+
+<div align="center">
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Systems & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Development Tools
+
+![GDB](https://img.shields.io/badge/GDB-00ADD8?style=for-the-badge&logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-8B0000?style=for-the-badge)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+### Recent Contributions
+
+<table>
+<tr>
+<td align="center">
+
+![Commits](https://badges.pufler.dev/commits/all/eadavid?style=for-the-badge&color=00ff00&logo=github&logoColor=white&labelColor=0d1117)
+
+**Total Commits**
+
+</td>
+<td align="center">
+
+![Repos](https://badges.pufler.dev/repos/eadavid?style=for-the-badge&color=00ff00&logo=github&logoColor=white&labelColor=0d1117)
+
+**Public Repositories**
+
+</td>
+<td align="center">
+
+![Years](https://badges.pufler.dev/years/eadavid?style=for-the-badge&color=00ff00&logo=github&logoColor=white&labelColor=0d1117)
+
+**Years on GitHub**
+
+</td>
+</tr>
+</table>
+
+### Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/eadavid/eadavid/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br>
+
+---
+
+## 🎓 Current Focus
+
+<table>
+<tr>
+<td width="50%">
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
-graph TB
-    subgraph CORE["⚡ CORE SYSTEMS"]
-        C[C/C++]
-        ASM[Assembly]
-        RUST[Rust]
-    end
-    subgraph TOOLS["🔧 TOOLCHAIN"]
-        GDB[GDB]
-        PERF[perf]
-        MAKE[Make/CMake]
-    end
-    subgraph PLATFORM["💾 PLATFORM"]
-        LINUX[Linux Kernel]
-        POSIX[POSIX APIs]
-        RT[Real-Time]
-    end
-    
-    C --> LINUX
-    ASM --> RT
-    RUST --> POSIX
-    GDB --> C
-    PERF --> LINUX
-    MAKE --> C
-    
-    style CORE fill:#003300,stroke:#00ff00,stroke-width:2px
-    style TOOLS fill:#003300,stroke:#00ff00,stroke-width:2px
-    style PLATFORM fill:#003300,stroke:#00ff00,stroke-width:2px
-    style C fill:#00ff00,stroke:#00ff00,color:#000000
-    style ASM fill:#00ff00,stroke:#00ff00,color:#000000
-    style RUST fill:#00ff00,stroke:#00ff00,color:#000000
+%%{init: {'theme':'dark','themeVariables': {'primaryColor':'#00ff00','primaryTextColor':'#fff','primaryBorderColor':'#00ff00','lineColor':'#00ff00','secondaryColor':'#0d1117','tertiaryColor':'#0d1117'}}}%%
+mindmap
+  root((Systems))
+    Kernel
+      Device Drivers
+      Schedulers
+      Memory Mgmt
+    Performance
+      Profiling
+      Optimization
+      Benchmarking
+    Distributed
+      Networking
+      Protocols
+      Concurrency
 ```
 
-</div>
+</td>
+<td width="50%">
+
+### Active Projects
+- 🔴 **Kernel Development** - Device drivers & modules
+- 🟢 **Performance Tools** - Profiling framework
+- 🟡 **Network Stack** - High-performance TCP/IP
+- 🔵 **RTOS** - Real-time embedded systems
+
+### Learning Path
+- eBPF & Extended Berkeley Packet Filter
+- Rust for systems programming
+- RISC-V architecture
+- Advanced compiler optimizations
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 🚀 FEATURED REPOSITORIES
+## 📬 Get In Touch
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=eadavid&repo=project-1&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/eadavid/project-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=eadavid&repo=project-2&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/eadavid/project-2)
+<table>
+<tr>
+<td align="center" width="25%">
 
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=eadavid&repo=project-3&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/eadavid/project-3)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=eadavid&repo=project-4&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/eadavid/project-4)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/eadavid)
+
+**GitHub**
+
+</td>
+<td align="center" width="25%">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/eadavid)
+
+**LinkedIn**
+
+</td>
+<td align="center" width="25%">
+
+[![Email](https://img.shields.io/badge/Email-Send-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+
+**Email**
+
+</td>
+<td align="center" width="25%">
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/eadavid)
+
+**Twitter**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 💡 Open to Collaboration
+
+**Interested in:** Systems programming projects, kernel development, performance optimization, embedded systems, and open-source contributions.
+
+**Available for:** Consulting, contract work, full-time opportunities.
 
 </div>
 
----
-
-## 📡 SYSTEM STATUS
-
-<div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                    DEVELOPMENT PIPELINE                      ║
-╠══════════════════════════════════════════════════════════════╣
-║  🔴 KERNEL DEVELOPMENT        ████████████░░░░░░░░  60%     ║
-║  🟢 PERFORMANCE OPTIMIZATION  ████████████████████  100%    ║
-║  🟡 DISTRIBUTED SYSTEMS       ████████░░░░░░░░░░░░  40%     ║
-║  🔵 EMBEDDED SYSTEMS          ████████████████░░░░  80%     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### 🌐 NETWORK
-
-[![GitHub](https://img.shields.io/badge/GITHUB-eadavid-000000?style=for-the-badge&logo=github&logoColor=00ff00&labelColor=000000)](https://github.com/eadavid)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00&labelColor=000000)](https://linkedin.com/in/eadavid)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=00ff00&labelColor=000000)](mailto:your.email@example.com)
-
-### 📊 CONTRIBUTION SNAKE
-
-![](https://raw.githubusercontent.com/eadavid/eadavid/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<br>
 
 ---
 
 <div align="center">
 
-**🔐 SECURE • 🚀 OPTIMIZED • 💡 INNOVATIVE**
+### ⚡ "Premature optimization is the root of all evil" - Donald Knuth
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer)
+**But we optimize anyway. 🚀**
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer)
+
+**© 2026 EA David | Built with ❤️ and systems-level precision**
 
 </div>
